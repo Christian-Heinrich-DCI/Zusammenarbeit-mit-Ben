@@ -7,3 +7,8 @@ Name: Christian Heinrich
 Alter: Geheim
 Nationalität: Deutsch
 Liebstes Essen: Pelmeni
+
+Name: Ben Goldschmidt 
+Alter: 1000
+Nationalität: Australian/Deutsch
+liebstes Esse: Bockwurst
